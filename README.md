@@ -1,4 +1,4 @@
-<img src="https://github.com/itzSako/itzSako/blob/main/github_sdfsdf.png">
+<img src = "https://github.com/itzSako/itzSako/blob/main/sako_github.png">
 
 Hi! I'm Sako, a electronic technician who likes to program electronic boards.
 
