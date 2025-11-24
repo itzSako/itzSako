@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/itzSako/itzSako/main/sako_github.png">
+
+<img src="https://github.com/itzSako/itzSako/blob/main/sako_github.png?raw=true" width="100%">
 
 Hi! I'm Sako, a electronic technician who likes to program electronic boards.
 
