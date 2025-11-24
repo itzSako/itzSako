@@ -1,4 +1,4 @@
-<img src="https://github.com/notKimu/notKimu/blob/main/kimu_github.png?raw=true" width="100%">
+<img src="github sdfsdf.png?raw=true" width="100%">
 
 Hi! I'm Sako, a electronic technician who likes to program electronic boards.
 
